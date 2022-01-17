@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/futurei1/mehedi/
+    - /bin/cp * $DEPLOYPATH
